@@ -1,0 +1,26 @@
+{
+  "name": "Abhishek Kumar Singh",
+  "short_name": "Abhishek",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#36D995",
+  "theme_color": "#36D995",
+  "description": "Thoughts, stories, ideas & bits of code. I am a young UI/UX & Web Developer in the ocean of pros and I hope to share my notes, journey, and lessons with my fellow yuppies.",
+  "icons": [
+    {
+      "src": "avatar.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "avatar.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "avatar.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
