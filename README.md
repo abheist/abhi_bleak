@@ -1,17 +1,18 @@
 # Bleak
 
-An elegant AJAX driven theme for [Ghost](http://github.com/tryghost/ghost/) by [Peter Amende](http://zutrinken.com/).
+Doing some upgradtion in Bleak theme for [Ghost](http://ghost.org),
+Orginally coded by [Peter Amende](http://zutrinken.com/).
 
-***
+---
 
-_**Hint:** This theme works with AJAX, so it won’t work with multiple domains properly! Use redirects to only one domain instead. Also make sure you haven’t jQuery injected in your footer due to [Ghosts migration method](http://dev.ghost.org/no-more-jquery/). This can break the layout!_
+***Hint:*** This theme works with AJAX, so it won’t work with multiple domains properly! Use redirects to only one domain instead. Also make sure you haven’t jQuery injected in your footer due to [Ghosts migration method](http://dev.ghost.org/no-more-jquery/). This can break the layout!_
 
 ## Demo
 
-* [Blog](http://bleak.zutrinken.com)
-* [Post](http://bleak.zutrinken.com/demo)
-* [Tags](http://bleak.zutrinken.com/tag/general)
-* [Author](http://bleak.zutrinken.com/author/zutrinken)
+* [Blog](http://abhiy.com)
+* [Post](http://abhiy.com/demo)
+* [Tags](http://abhiy/tag/general)
+* [Author](http://abhiy.com/author/abhishek)
 
 ## Features
 
