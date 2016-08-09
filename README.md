@@ -5,8 +5,8 @@ Orginally coded by [Peter Amende](http://zutrinken.com/).
 
 ---
 Please upgrade your ghost to 0.9 or more, to use it as a Progressive Web App.
-this theme is using manifest.json file which only supports in 0.9 or higher version of ghost
----
+
+This theme is using manifest.json file which only supports in 0.9 or higher version of Ghost
 
 ***Hint:*** This theme works with AJAX, so it won’t work with multiple domains properly! Use redirects to only one domain instead. Also make sure you haven’t jQuery injected in your footer due to [Ghosts migration method](http://dev.ghost.org/no-more-jquery/). This can break the layout!_
 
