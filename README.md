@@ -13,8 +13,8 @@ This theme is using manifest.json file which only supports in 0.9 or higher vers
 ## Demo
 
 * [Blog](http://abhiy.com)
-* [Post](http://abhiy.com/demo)
-* [Tags](http://abhiy/tag/general)
+* [Post](http://www.abhiy.com/single-sign-on-remote-authentication-in-freshdesk-by-python/)
+* [Tags](http://www.abhiy.com/tag/python/)
 * [Author](http://abhiy.com/author/abhishek)
 
 ## Features
